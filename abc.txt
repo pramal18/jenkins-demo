@@ -1,2 +1,0 @@
-This is test file created from Linux Server
-This is the second line
